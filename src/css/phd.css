@@ -1,0 +1,66 @@
+
+body {
+    color: #444;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ankar {
+    text-decoration: none;
+    color: #00539F;
+}
+
+.ankar:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.page-title {
+    background: url(../images/title-background.jpg);
+    padding: 130px 0px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.section-title,
+.section-subtitle {
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+}
+
+.section-title {
+
+    font-size: 2.6em;
+    text-decoration: underline #f7b400;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table {
+    background-color: transparent;
+}
+
+.instruction {
+    background-image: url(../images/mentor-bg.jpg);
+    padding: 100px;
+}

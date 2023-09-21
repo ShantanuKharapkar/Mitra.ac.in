@@ -1,0 +1,97 @@
+
+body {
+    color: #444;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.page-title {
+    background: url(../images/title-background.jpg);
+    padding: 130px 0px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.white {
+    color: #fff !important;
+}
+
+.faculty-title {
+    border-bottom: 1px solid #FFD200;
+
+    margin-bottom: 10px;
+}
+
+.section-title {
+    font-size: 48px;
+    font-size: 2.6em;
+    text-decoration: underline #f7b400;
+}
+
+.section-title,
+.section-subtitle {
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+}
+
+.message-wrap {
+    background: url(../images/chairman-principal-bg.jpg) repeat;
+    /* background-size: 100%; */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagebox {
+    border: 0px solid #00539f;
+
+}
+
+.imagebox {
+    position: relative;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    margin-bottom: 24px;
+}
+
+
+
+.imagebox img {
+    max-width: 100%;
+    min-height: 310px;
+    object-fit: cover;
+}
+
+.faculty-dtl p {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.prxsection {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.quoteone {
+    background: url(../images/pr1.jpg);
+    padding: 100px 0px 80px;
+}
+
+.prxsection h2 {
+    color: #fff;
+    font-weight: normal;
+}

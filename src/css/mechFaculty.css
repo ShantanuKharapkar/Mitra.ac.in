@@ -1,0 +1,38 @@
+.our-executive {
+    background: linear-gradient(180deg, #000000 0%, #00539F 50.83%, #97BEE2 100%);
+}
+.facultybox {
+    padding: 15px 15px 15px;
+    border: 2px solid #00539F;
+    background: #fff;
+    margin-bottom: 25px;
+}
+.facultybox h3 {
+    margin-top: 0px;
+    color: #00539F;
+    margin-bottom: 0;
+}
+.facultybox h4 {
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+.facultybox p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+.facultybox .btn {
+    border: 1px solid #00539F;
+    margin-top: 10px;
+    color: #f7b400;
+}
+.section-title{
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+}
+.faculty-title{
+    color: #00539F;
+}

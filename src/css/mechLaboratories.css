@@ -1,0 +1,22 @@
+.course-box {
+ 
+    padding: 30px 20px 20px;
+    margin-bottom: 30px;
+    background: #f9f9f9;
+}
+.section-title{
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+}
+.faculty-title{
+    color: #00539F;
+}
+
+.imagebox img {
+    max-width: 100%;
+    min-height: 310px;
+    object-fit: cover;
+}

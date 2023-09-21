@@ -1,0 +1,15 @@
+.img-about{
+    background-image: url(../images/aboutus.png);
+    background-size: cover;
+    padding: 0px;
+    height: 500px;
+}
+.section-1{
+    background-image: url(../images/Screenshot\ \(493\)\ 1.png);
+    padding: 200px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-align-justify{
+    text-align: justify;
+}

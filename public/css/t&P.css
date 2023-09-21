@@ -1,0 +1,74 @@
+.background1 {
+    background: url(../images/T&P_Background.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    padding: 130px 0px;
+}
+
+.bg-light-color {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.tp {
+    width: 25%;
+    border-radius: 7px;
+
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding: 30px 20px;
+    background: #fff;
+}
+
+.admissions {
+    max-width: 100%;
+}
+
+.eight-img img {
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 0.3s ease;
+    height: 250px;
+}
+
+.eight-img img:hover {
+    transform: scale(1.04);
+}
+
+.nine-img img {
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 0.3s ease;
+    height: 250px;
+}
+
+.nine-img img:hover {
+    transform: scale(1.04);
+}
+
+.imgbox {
+    text-align: center;
+    padding: 25px 15px 10px;
+    border: 2px solid #00539F;
+    background: #fff;
+    margin-bottom: 25px;
+}
+
+.imgbox h3 {
+    margin-top: 20px;
+    color: #f7b400;
+}
+
+.imgbox h4 {
+    font-weight: 600;
+    margin: 0 0 20px;
+    line-height: normal;
+}

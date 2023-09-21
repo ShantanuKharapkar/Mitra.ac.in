@@ -1,0 +1,28 @@
+.course-box {
+    border: 1px solid #ddd;
+    padding: 30px 20px 20px;
+    margin-bottom: 30px;
+    background: #f9f9f9;
+}
+
+.faculty-title {
+        color: #00539F;
+    }
+    .section-title {
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+}
+.table-bordered>tbody>tr>td {
+        border: 1px solid #c5c1c1 !important;
+    }
+
+    td {
+        border: 1px solid #c5c1c1 !important;
+    }
+
+    th {
+        border: 1px solid #c5c1c1 !important;
+    }

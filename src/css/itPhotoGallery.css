@@ -1,0 +1,46 @@
+.our-executive {
+    background: linear-gradient(180deg, #000000 0%, #00539F 50.83%, #97BEE2 100%);
+}
+.gallerybox {
+    position: relative;
+    border: 3px solid #ccc;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.gallerybox img {
+    max-width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.glcaption {
+    padding: 20px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+.glcaption h4 {
+    color: #fff;
+    text-align: center;
+    margin-top: 30%;
+    font-size: 18px;
+}
+.gallerybox:hover .glcaption {
+    top: 0;
+    opacity: 1;
+}
+.section-title{
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+}
+.faculty-title{
+    color: #00539F;
+}

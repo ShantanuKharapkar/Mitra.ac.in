@@ -1,6 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+
+
 import {Routes,Route} from 'react-router-dom'
 import HomePage from './pages/HomePage' 
 import AboutPage from './pages/AboutPage'
@@ -48,6 +51,21 @@ import CsePhotoGallery from './pages/CsePhotoGallery';
 import CseContact from './pages/CseContact';
 import CseConsultancyResearch from './pages/CseConsultancyResearch';
 import ItAcadmicExcellence from './pages/ItAcadmicExcellence';
+import ItEvents from './pages/ItEvents';
+import ItFaculty from './pages/ItFaculty';
+import ItProgramme from './pages/ItProgramme';
+import ItLaboratories from './pages/ItLaboratories';
+import ItConsultancyResearch from './pages/ItConsultancyResearch';
+import ItPhotoGallery from './pages/ItPhotoGallery';
+import ItContact from './pages/ItContact';
+import ElectroAcademicExcellence from './pages/ElectroAcademicExcellence';
+import ElectroEvents from './pages/ElectroEvents';
+import ElectroFaculty from './pages/ElectroFaculty';
+import ElectroProgramme from './pages/ElectroProgramme';
+import ElectroLaborotries from './pages/ElectroLaborotries';
+import ElectroConsultancyResearch from './pages/ElectroConsultancyResearch';
+import ElectroPhotoGallery from './pages/ElectroPhotoGallery';
+import ElectroContact from './pages/ElectroContact';
 
 
 
@@ -118,6 +136,36 @@ function App() {
    Information Technology
      */}
      <Route path='/itAcadmicExcellence' element={<ItAcadmicExcellence/>}/>
+     <Route path='/itEvents' element={<ItEvents/>}/>
+     <Route path='/itFaculty' element={<ItFaculty/>}/>
+     <Route path='/itProgramme' element={<ItProgramme/>}/>
+     <Route path='/itLaboratories' element={<ItLaboratories/>}/>
+     <Route path='/itConsultancyResearch' element={<ItConsultancyResearch/>}/>
+     <Route path='/itPhotoGallery' element={<ItPhotoGallery/>}/>
+     <Route path='/itContact' element={<ItContact/>}/>
+
+
+
+
+      {/**
+   Information Technology
+     */}
+
+     <Route path='/electroAcademicExcellence' element={<ElectroAcademicExcellence/>}/>
+     <Route path='/electroEvents' element={<ElectroEvents/>}/>
+     <Route path='/electroFaculty' element={<ElectroFaculty/>}/>
+     <Route path='/electroProgramme' element={<ElectroProgramme/>}/>
+     <Route path='/electroLaborotries' element={<ElectroLaborotries/>}/>
+     <Route path='/electroConsultancyResearch' element={<ElectroConsultancyResearch/>}/>
+     <Route path='/electroPhotoGallery' element={<ElectroPhotoGallery/>}/>
+     <Route path='/electroContact' element={<ElectroContact/>}/>
+
+
+
+
+
+
+
 
 
 

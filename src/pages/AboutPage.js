@@ -1,7 +1,7 @@
 
 import React from 'react'
-// import css
 
+// import css
 import "../css/index.css"
 import "../css/bootstap.min.css"
 import "../css/responsive.css"

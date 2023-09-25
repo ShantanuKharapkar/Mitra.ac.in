@@ -1,0 +1,30 @@
+.nav-link-1 {
+    color: #F7B202;
+}
+
+.section-title{
+font-weight: 400;
+margin-bottom: 50px;
+text-align: center;
+display: block;
+color: #00539F;
+}
+.faculty-title{
+color: #00539F;
+}
+.nav-link-1.active {
+    color: #fff;
+    background-color: #00539F !important;
+}
+
+.table-bordered>tbody>tr>td {
+    border: 1px solid #c5c1c1 !important;
+}
+
+td {
+    border: 1px solid #c5c1c1 !important;
+}
+
+th {
+    border: 1px solid #c5c1c1 !important;
+}

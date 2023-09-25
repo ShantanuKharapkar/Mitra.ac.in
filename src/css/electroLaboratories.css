@@ -1,0 +1,23 @@
+.imagebox {
+    position: relative;
+    border: 1px solid #00539f;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+  .imagebox img {
+    max-width: 100%;
+    min-height: 310px;
+    object-fit: cover;
+  }
+
+  .section-title {
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539f;
+  }
+  .faculty-title {
+    color: #00539f;
+  }

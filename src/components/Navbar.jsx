@@ -276,21 +276,21 @@ const Navbar = () =>{
                                             <p className="mb-1"><Link   to="/itAcadmicExcellence"
                                                     className="text-light text-decoration-none">Academic
                                                     Excellence</Link></p>
-                                            <p className="mb-1"><Link   to="it-events.html"
+                                            <p className="mb-1"><Link   to="/itEvents"
                                                     className="text-light text-decoration-none">Events &
                                                     Activities</Link></p>
-                                            <p className="mb-1"><Link   to="it-faculty.html"
+                                            <p className="mb-1"><Link   to="/itFaculty"
                                                     className="text-light text-decoration-none">Faculty</Link></p>
-                                            <p className="mb-1"><Link   to="it-courses.html"
+                                            <p className="mb-1"><Link   to="/itProgramme"
                                                     className="text-light text-decoration-none">Programs</Link></p>
-                                            <p className="mb-1"><Link   to="it-laboratories.html"
+                                            <p className="mb-1"><Link   to="/itLaboratories"
                                                     className="text-light text-decoration-none">Laborataries</Link></p>
-                                            <p className="mb-1"><Link   to="it-consultancy-research.html"
+                                            <p className="mb-1"><Link   to="/itConsultancyResearch"
                                                     className="text-light text-decoration-none">Consultancy & Research</Link></p>
-                                            <p className="mb-1"><Link   to="it-photo-gallery.html"
+                                            <p className="mb-1"><Link   to="/itPhotoGallery"
                                                     className="text-light text-decoration-none">Photo
                                                     Gallery</Link></p>
-                                            <p className="mb-1"><Link   to="it-contact-us.html"
+                                            <p className="mb-1"><Link   to="/itContact"
                                                     className="text-light text-decoration-none">Contact
                                                     Us</Link>
                                             </p>
@@ -305,24 +305,24 @@ const Navbar = () =>{
                                             <h6 className="text-light border-bottom"><Link   to="main-electronics.html"
                                                     className=" text-decoration-none color-orange fs-5">Electronics &amp;
                                                     Telecom</Link></h6>
-                                            <p className="mb-1"><Link   to="electronics-academic-excellence.html"
+                                            <p className="mb-1"><Link   to="/electroAcademicExcellence"
                                                     className="text-light text-decoration-none">Academic
                                                     Excellence</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-events.html"
+                                            <p className="mb-1"><Link   to="/electroEvents"
                                                     className="text-light text-decoration-none">Events &
                                                     Activities</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-faculty.html"
+                                            <p className="mb-1"><Link   to="/electroFaculty"
                                                     className="text-light text-decoration-none">Faculty</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-courses.html"
+                                            <p className="mb-1"><Link   to="/electroProgramme"
                                                     className="text-light text-decoration-none">Programs</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-laboratories.html"
+                                            <p className="mb-1"><Link   to="/electroLaborotries"
                                                     className="text-light text-decoration-none">Laborataries</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-consultancy-research.html"
+                                            <p className="mb-1"><Link   to="/electroConsultancyResearch"
                                                     className="text-light text-decoration-none">Consultancy & Research</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-photo-gallery.html"
+                                            <p className="mb-1"><Link   to="/electroPhotoGallery"
                                                     className="text-light text-decoration-none">Photo
                                                     Gallery</Link></p>
-                                            <p className="mb-1"><Link   to="electronics-contact-us.html"
+                                            <p className="mb-1"><Link   to="/electroContact"
                                                     className="text-light text-decoration-none">Contact
                                                     Us</Link>
                                             </p>

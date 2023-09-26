@@ -3,7 +3,7 @@ import "../css/index.css"
 import "../css/bootstap.min.css"
 import "../css/responsive.css"
 
-import $ from 'jquery'
+
 
 const Home = () =>{
     return(

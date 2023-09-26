@@ -1,0 +1,151 @@
+
+  #myVideo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .video-banner {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .video-overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+
+  .content {
+    position: absolute;
+    bottom: 0;
+    /* background: rgba(0, 0, 0, 0.5); */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .video-overlay h1 {
+    margin-top: 20%;
+    font-size: 50px;
+  }
+
+  .content h1 {
+    margin-bottom: 5px;
+  }
+
+  .nav-link-1 {
+    color: #F7B202;
+  }
+
+  .nav-link-1.active {
+    color: #fff;
+    background-color: #00539F !important;
+  }
+
+  .table-bordered>tbody>tr>td {
+    border: 1px solid #c5c1c1 !important;
+  }
+
+  td {
+    border: 1px solid #c5c1c1 !important;
+  }
+
+  th {
+    border: 1px solid #c5c1c1 !important;
+  }
+
+  .imagebox {
+    position: relative;
+    border: 1px solid #00539f;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+
+  .imagebox img {
+    max-width: 100%;
+    min-height: 310px;
+    object-fit: cover;
+  }
+
+  .section-title {
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color: #00539F;
+  }
+
+  .faculty-title {
+    color: #00539F;
+  }
+
+  .height-400 {
+    height: 400px;
+  }
+
+  .cv-vision {
+    padding: 0;
+    min-height: 490px;
+    background: #00539F;
+    margin-bottom: 30px;
+    color: #fff;
+    text-align: justify;
+    border-radius: 5px;
+  }
+
+  .plsection .boxed-feature {
+    background: #e6cdb4;
+    color: #230000;
+  }
+
+  .plsection .boxed-feature h3 {
+    border-bottom: 1px solid #555;
+  }
+
+  .boxed-feature {
+    border-radius: 5px;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    color: #fff;
+    text-align: justify;
+  }
+
+  .fullwidth-block {
+    padding: 15px 0;
+  }
+
+  .boxed-feature h3 {
+    font-weight: bold !important;
+    margin-bottom: 15px !important;
+    text-align: center;
+    border-bottom: 1px solid #f5f5f5;
+    padding-bottom: 5px;
+  }
+
+  .boxed-feature ul {
+    padding-left: 15px;
+  }
+
+  .boxed-feature a {
+    text-decoration: none;
+  }
+  .partners {
+    text-align: center;
+    margin-top: 50px;
+}
+.partners a {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px 10px;
+}
+.placement-logo {
+    max-width: 170px;
+}

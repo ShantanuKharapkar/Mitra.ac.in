@@ -9,12 +9,6 @@ import "../css/civilMainHome.css"
 
 
 
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import 'slick-carousel/slick/slick.min.js';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'slick-carousel/slick/slick.css';
-import 'slick-carousel/slick/slick-theme.css';
-
 // components
 
 import Header from "../components/Header";
@@ -23,6 +17,7 @@ import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
 const CivilMainHome =()=>{
+  
     return(
 
         <div>
@@ -88,7 +83,6 @@ const CivilMainHome =()=>{
       </div>
     </div>
   </div>
-
 
   <section>
   <div className="container">

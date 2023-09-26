@@ -6,6 +6,7 @@ import "../css/responsive.css"
 import { Link } from "react-router-dom";
 
 const Navbar = () =>{
+      
     return(
 
 
@@ -219,7 +220,7 @@ const Navbar = () =>{
                                             </p>
                                         </div>
                                         <div className="col-xl-3  col-lg-3 col-md-6 col-sm-12 col-12 mb-2">
-                                            <h6 className="text-light border-bottom"><Link   to="main-mech.html"
+                                            <h6 className="text-light border-bottom"><Link   to="/mechHome"
                                                     className=" text-decoration-none fs-5 color-orange">MECHANICAL</Link></h6>
                                             <p className="mb-1"><Link   to="/mechAcadmicExcellence"
                                                     className="text-light text-decoration-none">Academic

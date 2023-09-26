@@ -66,6 +66,7 @@ import ElectroLaborotries from './pages/ElectroLaborotries';
 import ElectroConsultancyResearch from './pages/ElectroConsultancyResearch';
 import ElectroPhotoGallery from './pages/ElectroPhotoGallery';
 import ElectroContact from './pages/ElectroContact';
+import MechHome from './pages/MechHome';
 
 
 
@@ -105,10 +106,12 @@ function App() {
     <Route path='/civilPhotoGallery' element={<CivilPhotoGallery/>}/>
     <Route path='/civilContactUs' element={<CivilContactUs/>}/>
     <Route path='/civilMainHome' element={<CivilMainHome/>}/>
- {/**
+     
+ 
+    {/**
     Mechanical Deapartment
      */}
-
+     <Route path='/mechHome' element={<MechHome/>}/>
      <Route path='/mechAcadmicExcellence' element={<MechAcadmicExcellence/>}/>
      <Route path='/mechEvents' element={<MechEvenets/>}/>
      <Route path='/mechFaculty' element={<MechFaculty/>}/>
